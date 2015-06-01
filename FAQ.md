@@ -1,6 +1,5 @@
 #FAQ#
-##The Portal##
-###What is the DetailData portal?###  
+###What is the DetailData portal?###
 The DetailData Portal is a data catalogue: a listing of various datasets relevant to Northern Ireland, including databases, pre-formatted tables, statistical reports and other resources.   
 The Portal focuses on the needs of the local voluntary and community sector, but this focus in no way limits the range of datasets that can be hosted.   
 Users can access, view and download data from the datasets available the Portal. They can also create datasets.  
