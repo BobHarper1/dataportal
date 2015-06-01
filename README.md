@@ -6,7 +6,6 @@ Users can access, view and download data from the datasets available on the Port
 
 Open Data is data that is available to be accessed, modified and shared without restriction (though in some cases, requirements to attribute authors may be attached). Through openness transparency is increased, social and economic value unleashed and civic participation and engagement unlocked.
 
-##DetailData
 ![alt text](https://cloud.githubusercontent.com/assets/10833378/7916574/a778e782-087c-11e5-8cf1-d88c360ea121.png)  
 As part of the wider DetailData project the Portal serves voluntary and community organisations in the effective use of data in their work.  
 
@@ -16,10 +15,10 @@ Our goals are to stimulate innovation, promote research, engage public participa
 The Portal forms part of the DetailData project in partnership:  
 
 ![alt text](http://www.nicva.org/sites/all/themes/theme/images/nicva_logo.png)  
-[NICVA](http://www.nicva.org/about-us) support and represent voluntary and community organisations across Northern Ireland. NICVA offer a wide range of practical services, products and support to our members to help them do what they do best - find innovative solutions for social challenges.  
++ [NICVA](http://www.nicva.org/about-us) support and represent voluntary and community organisations across Northern Ireland. NICVA offer a wide range of practical services, products and support to our members to help them do what they do best - find innovative solutions for social challenges.  
 
 <img src="http://www.thedetail.tv/system/production/uploads/hero_asset/upload/949/hero_color_detail.jpg" alt="thedetail.tv" height="50" width="158">  
-[TheDetail](http://www.thedetail.tv/articles/about) is an investigative news and analysis website dedicated to in-depth reporting on issues of vital public interest. The Detail's core areas of investigation include health, education, politics, justice & crime, government accountability, and the legacy of conflict in Northern Ireland.   
++ [TheDetail](http://www.thedetail.tv/articles/about) is an investigative news and analysis website dedicated to in-depth reporting on issues of vital public interest. The Detail's core areas of investigation include health, education, politics, justice & crime, government accountability, and the legacy of conflict in Northern Ireland.   
 
 Our goals are to stimulate innovation, promote research, engage public participation in government, increase transparency, inform decision-making and to help organisations tap in to the potential of data as a powerful resource for social change.  
 
