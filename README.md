@@ -23,8 +23,6 @@ The Portal forms part of the DetailData project in partnership:
 --------------------------------------
 [TheDetail](http://www.thedetail.tv/articles/about) is an investigative news and analysis website dedicated to in-depth reporting on issues of vital public interest. The Detail's core areas of investigation include health, education, politics, justice & crime, government accountability, and the legacy of conflict in Northern Ireland.   
 
-Our goals are to stimulate innovation, promote research, engage public participation in government, increase transparency, inform decision-making and to help organisations tap in to the potential of data as a powerful resource for social change.  
-
 ![alt text](https://www.biglotteryfund.org.uk/global-content/programmes/northern-ireland/-/media/13E816E467914FC4908DC494727F9989.ashx BIG Lottery Fund NI)  
 ======================================
 The partnership project is supported by [BIG Lottery Ideas Fund NI](https://www.biglotteryfund.org.uk/funding/search-past-grants/project-details?appid=276676).  
