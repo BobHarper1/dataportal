@@ -42,3 +42,11 @@ We are also able to respond to the need to add or adjust features in future.
 The API (application program interface) is a protocol that provides the building blocks for programmatic access to the list of datasets stored in the DetailData Portal, with their associated metadata.  
 API users can query metadata for specific datasets and also retrieve datasets using various facets such as publisher, topic, time period, geographical coverage and access options.  
 Developers can use this API to access catalog information in real-time to support their own applications, so long as they adhere to the individual dataset's licenses or terms of use.  
+##Where can I get more information?
+There are numerous sources on the Web to aid the open data community, from using and applying open data, making your own organisation's data open and campaigning for more open data.  
++ Socrata’s [Open Data Field Guide](http://www.socrata.com/open-data-field-guide-chapter/about/).
++ [Open Data Institute (ODI)](http://theodi.org/) has a wealth of information including a number of [guidebooks](http://theodi.org/guides). NICVA acts as the ODI Node for Northern Ireland.
++ [Open Data Commons](http://opendatacommons.org/) focuses on licencing and legal tools.
++ [Nesta (National Endowment for Science Technology and the Arts)](http://www.nesta.org.uk/search?search_api_views_fulltext=open%20data) have a large range of resources on open data, particularly relating to how it can be used for the public good.
++ [Data.gov.uk](http://www.data.gov.uk) The UK Government’s open data portal.
++ [Data.gov.ie](http://www.data.gov.ie) The Irish Government's open data portal.
