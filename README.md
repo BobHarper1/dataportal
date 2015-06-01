@@ -12,7 +12,7 @@ As part of the wider DetailData project the Portal serves voluntary and communit
 
 Our goals are to stimulate innovation, promote research, engage public participation in government, increase transparency, inform decision-making and to help organisations tap in to the potential of data as a powerful resource for social change.
 
-##Partners
+#Partners
 The Portal forms part of the DetailData project in partnership:  
 
 ![alt text](http://www.nicva.org/sites/all/themes/theme/images/nicva_logo.png)  
@@ -29,7 +29,7 @@ Our goals are to stimulate innovation, promote research, engage public participa
 ======================================
 The partnership project is supported by [BIG Lottery Ideas Fund NI](https://www.biglotteryfund.org.uk/funding/search-past-grants/project-details?appid=276676).  
 
-##Platform
+#Platform
 ![alt text](http://dev-nicva-dkan.pantheon.io/profiles/dkan/themes/contrib/nuboot_radix/logo.png)  
 The DetailData Portal is built on DKAN, the Drupal-based version of CKAN, the world's leading open source open data publishing platform. It provides a complete open source software solution for data publishers, and adheres to the API, data, and functionality standards of CKAN. The goal of the project is to combine the utility of CKAN with the ease of maintenance and extensibility of Drupal.  
 + Developers: see http://drupal.org/project/dkan for code, documentation, and to contribute.
