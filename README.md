@@ -7,6 +7,7 @@ Users can access, view and download data from the datasets available on the Port
 Open Data is data that is available to be accessed, modified and shared without restriction (though in some cases, requirements to attribute authors may be attached). Through openness transparency is increased, social and economic value unleashed and civic participation and engagement unlocked.
 
 ![alt text](https://cloud.githubusercontent.com/assets/10833378/7916574/a778e782-087c-11e5-8cf1-d88c360ea121.png)  
+======================================================
 As part of the wider DetailData project the Portal serves voluntary and community organisations in the effective use of data in their work.  
 
 Our goals are to stimulate innovation, promote research, engage public participation in government, increase transparency, inform decision-making and to help organisations tap in to the potential of data as a powerful resource for social change.
@@ -22,8 +23,8 @@ The Portal forms part of the DetailData project in partnership:
 
 Our goals are to stimulate innovation, promote research, engage public participation in government, increase transparency, inform decision-making and to help organisations tap in to the potential of data as a powerful resource for social change.  
 
-##Funding##
 ![alt text](https://www.biglotteryfund.org.uk/global-content/programmes/northern-ireland/-/media/13E816E467914FC4908DC494727F9989.ashx BIG Lottery Fund NI)  
+======================================
 The partnership project is supported by [BIG Lottery Ideas Fund NI](https://www.biglotteryfund.org.uk/funding/search-past-grants/project-details?appid=276676).  
 
 ##Platform
