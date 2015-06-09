@@ -40,7 +40,12 @@ header,
 hgroup,
 main,
 menu,
-nav,
+nav ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+},
 section,
 summary {
   display: block;
