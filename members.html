@@ -22,7 +22,7 @@ else
   {// code for IE6, IE5
   xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
   }
-xmlhttp.open("GET","http://data.niassembly.gov.uk/members.asmx/GetAllCurrentMembers",false);
+xmlhttp.open("POST","http://data.niassembly.gov.uk/members.asmx/GetAllCurrentMembers?",false);
 xmlhttp.send();
 xmlDoc=xmlhttp.responseXML; 
 document.write("<table><tr><th>Name</th><th>Party</th></tr>");
