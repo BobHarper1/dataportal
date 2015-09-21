@@ -1,6 +1,6 @@
 ![alt text](https://cloud.githubusercontent.com/assets/10833378/7916574/a778e782-087c-11e5-8cf1-d88c360ea121.png)  
 ======================================================
-The DetailData Portal is a publicly-accessible data catalogue providing access to datasets relevant to Northern Ireland, including databases, pre-formatted tables, statistical reports, APIs and other resources.
+The [Detail Data Portal](http://data.nicva.org) is a publicly-accessible data catalogue providing access to datasets relevant to Northern Ireland, including databases, pre-formatted tables, statistical reports, APIs and other resources.
 
 The Portal is dedicated to promoting access to public, private and voluntary and community sector data. We focus on the needs of the local voluntary and community sector, but this focus in no way limits the range of datasets that can be hosted.
 
